@@ -1,0 +1,105 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Pyae Sone",
+      "lastName": "Aung",
+      "email": "pyae@gmail.com",
+      "dob": "1999-12-29T17:30:00.000Z",
+      "gender": "male",
+      "education": "University",
+      "company": "Testing",
+      "experience": "1",
+      "package": "510000",
+      "id": 1
+    },
+    {
+      "firstName": "Daw Thazin",
+      "lastName": "Htike",
+      "email": "thazinHtike@gmail.com",
+      "dob": "1975-11-28T17:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Testing",
+      "experience": "15",
+      "package": "5000000",
+      "id": 3
+    },
+    {
+      "firstName": "U Lu Maw ",
+      "lastName": "Aung",
+      "email": "lumanaung@gmail.com",
+      "dob": "1965-01-02T17:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Testing",
+      "experience": "20",
+      "package": "10000000",
+      "id": 4
+    },
+    {
+      "firstName": "Ma Moe Pyae Pyae ",
+      "lastName": "Zin",
+      "email": "moepyae@gmail.com",
+      "dob": "2017-06-03T17:30:00.000Z",
+      "gender": "female",
+      "education": "High School",
+      "company": "No",
+      "experience": "1",
+      "package": "1000",
+      "id": 5
+    },
+    {
+      "firstName": "Mg PaiLin",
+      "lastName": "Htike",
+      "email": "pailinHtike@gmail.com",
+      "dob": "2005-08-23T17:30:00.000Z",
+      "gender": "male",
+      "education": "University",
+      "company": "No",
+      "experience": "1",
+      "package": "5000",
+      "id": 6
+    },
+    {
+      "firstName": "Daw Nyunt",
+      "lastName": "Nyunt",
+      "email": "nyuntnyunt@gami.com",
+      "dob": "1947-03-10T17:30:00.000Z",
+      "gender": "",
+      "education": "High School",
+      "company": "no",
+      "experience": "1",
+      "package": "50000",
+      "id": 7
+    },
+    {
+      "firstName": "Pyae Sone",
+      "lastName": "Aung",
+      "email": "pyaesoneaung@gmail.com",
+      "dob": "2023-06-04T17:30:00.000Z",
+      "gender": "",
+      "education": "High School",
+      "company": "Testing",
+      "experience": "1",
+      "package": "23",
+      "id": 8
+    }
+  ]
+}
